@@ -1,0 +1,27 @@
+ELF_BLUE
+elf_blue.bmp
+38 80
+2
+2 0 1 200 1
+2 1 2 200 0
+
+ELF_GREEN
+elf_green.bmp
+38 80
+2
+2 0 1 200 1
+2 1 2 300 0
+
+ELF_RED
+elf_red.bmp
+38 80
+2
+2 0 1 200 1
+2 1 2 300 0
+
+ELF_YELLOW
+elf_yellow.bmp
+38 80
+2
+2 0 1 200 1
+2 1 2 300 0
